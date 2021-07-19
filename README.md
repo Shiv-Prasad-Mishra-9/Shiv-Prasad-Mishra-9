@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shiv Prasad Mishra
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in learning new things.
 
 <!---
 Shiv-Prasad-Mishra-9/Shiv-Prasad-Mishra-9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
